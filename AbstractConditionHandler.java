@@ -7,7 +7,6 @@ import java.util.Map;
 /**
  * <p></p>
  *
- * @author 王晟权
  * @date 2018/9/25 18:22
  */
 public abstract class AbstractConditionHandler<T> implements ConditionProvider<T> {
